@@ -81,7 +81,7 @@
 <br/>
 
 <p align="center">
-	<img align="left" src="https://github-readme-stats.vercel.app/api?username=sagnikganguly96&show_icons=true&include_all_commits=true&locale=en&theme=default" alt="sagnikganguly96" />
+	<img align="left" src="https://github-readme-stats.vercel.app/api?username=sagnikganguly96&show_icons=true&include_all_commits=true&count_private=true&locale=en&theme=default" alt="sagnikganguly96" />
 	<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sagnikganguly96" alt="sagnikganguly96" />
 </p>
 <p align="center">
