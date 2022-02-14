@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Sagnik Ganguly</h1>
 <h3 align="center">A passionate full-stack developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sagnikganguly96&label=Profile%20views&color=0e75b6&style=flat" alt="sagnikganguly96" /> </p>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=sagnikganguly96&label=Profile%20views&color=0e75b6&style=flat" alt="sagnikganguly96" /> </p>
 
-<p align="left">
-	<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sagnikganguly96" alt="sagnikganguly96" /></a>
+<p align="center">
+	<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sagnikganguly96&no-bg=false&no-frame=true&margin-w=15" alt="sagnikganguly96" /></a>
 </p>
 
 <p align="left">
@@ -81,11 +81,11 @@
 <br/>
 
 <p align="center">
-	<img align="left" src="https://github-readme-stats.vercel.app/api?username=sagnikganguly96&show_icons=true&locale=en&theme=gradient" alt="sagnikganguly96" />
-	<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sagnikganguly96&" alt="sagnikganguly96" />
+	<img align="left" src="https://github-readme-stats.vercel.app/api?username=sagnikganguly96&show_icons=true&include_all_commits=true&locale=en&theme=default" alt="sagnikganguly96" />
+	<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sagnikganguly96" alt="sagnikganguly96" />
 </p>
 <p align="center">
-	<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sagnikganguly96&show_icons=true&locale=en&layout=compact" alt="sagnikganguly96" />
+	<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sagnikganguly96&show_icons=true&langs_count=10&locale=en&layout=compact" alt="sagnikganguly96" />
 </p>
 
 
